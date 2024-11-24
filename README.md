@@ -22,3 +22,4 @@ Pump.fun sniping bot that can buy and sell tokens.
 - [ ] Sandbox transactions to train strategy
 - [ ] Train model to decide whether to sell or buy with tensorflow
 - [ ] Run bot on production with 0.01 SOL
+
